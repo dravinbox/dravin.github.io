@@ -5,4 +5,5 @@ draft: true
 ---
 
 hihihhhhh
+blog
 
